@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Smarten-up Briefing</title>
+    <link>https://kaschewe-cloud.github.io/x7k2q9-feed/61f1b785dafc73d2a097676fa286dc3efd52be4fbb084bdf</link>
+    <description>A private daily learning briefing. Educational content, not investment advice.</description>
+    <language>en</language>
+    <itunes:author>Smarten-up Briefing</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <itunes:category text="Education" />
+    <item>
+      <title>Thu 12 Nov - Evening</title>
+      <description>In this episode: markets, history, career.</description>
+      <guid isPermaLink="false">smarten-up-2026-11-12-evening</guid>
+      <pubDate>Thu, 12 Nov 2026 17:30:00 +0400</pubDate>
+      <enclosure url="https://kaschewe-cloud.github.io/x7k2q9-feed/61f1b785dafc73d2a097676fa286dc3efd52be4fbb084bdf/audio/2026-11-12-evening.mp3" length="7097888" type="audio/mpeg" />
+      <itunes:duration>00:14:47</itunes:duration>
+    </item>
+    <item>
+      <title>Thu 12 Nov - Morning</title>
+      <description>In this episode: news_gulf, news_west, news_asia, funfact, ai_biz.</description>
+      <guid isPermaLink="false">smarten-up-2026-11-12-morning</guid>
+      <pubDate>Thu, 12 Nov 2026 06:30:00 +0400</pubDate>
+      <enclosure url="https://kaschewe-cloud.github.io/x7k2q9-feed/61f1b785dafc73d2a097676fa286dc3efd52be4fbb084bdf/audio/2026-11-12-morning.mp3" length="6004925" type="audio/mpeg" />
+      <itunes:duration>00:12:31</itunes:duration>
+    </item>
+    <item>
+      <title>Wed 11 Nov - Morning</title>
+      <description>In this episode: news_gulf, news_west, news_asia, ai_tech.</description>
+      <guid isPermaLink="false">smarten-up-2026-11-11-morning</guid>
+      <pubDate>Wed, 11 Nov 2026 06:30:00 +0400</pubDate>
+      <enclosure url="https://kaschewe-cloud.github.io/x7k2q9-feed/61f1b785dafc73d2a097676fa286dc3efd52be4fbb084bdf/audio/2026-11-11-morning.mp3" length="6446499" type="audio/mpeg" />
+      <itunes:duration>00:13:26</itunes:duration>
+    </item>
+    <item>
+      <title>Tue 10 Nov - Evening</title>
+      <description>In this episode: markets, history, career.</description>
+      <guid isPermaLink="false">smarten-up-2026-11-10-evening</guid>
+      <pubDate>Tue, 10 Nov 2026 17:30:00 +0400</pubDate>
+      <enclosure url="https://kaschewe-cloud.github.io/x7k2q9-feed/61f1b785dafc73d2a097676fa286dc3efd52be4fbb084bdf/audio/2026-11-10-evening.mp3" length="6604906" type="audio/mpeg" />
+      <itunes:duration>00:13:46</itunes:duration>
+    </item>
+    <item>
+      <title>Tue 10 Nov - Morning</title>
+      <description>In this episode: headlines, funfact. The AI concepts and the commercial side of AI segment is missing today because the reporter could not finish it. It will be back at the next episode.</description>
+      <guid isPermaLink="false">smarten-up-2026-11-10-morning</guid>
+      <pubDate>Tue, 10 Nov 2026 06:30:00 +0400</pubDate>
+      <enclosure url="https://kaschewe-cloud.github.io/x7k2q9-feed/61f1b785dafc73d2a097676fa286dc3efd52be4fbb084bdf/audio/2026-11-10-morning.mp3" length="1514999" type="audio/mpeg" />
+      <itunes:duration>00:03:09</itunes:duration>
+    </item>
+    <item>
+      <title>Mon 9 Nov - Evening</title>
+      <description>In this episode: markets, career.</description>
+      <guid isPermaLink="false">smarten-up-2026-11-09-evening</guid>
+      <pubDate>Mon, 09 Nov 2026 17:30:00 +0400</pubDate>
+      <enclosure url="https://kaschewe-cloud.github.io/x7k2q9-feed/61f1b785dafc73d2a097676fa286dc3efd52be4fbb084bdf/audio/2026-11-09-evening.mp3" length="4646348" type="audio/mpeg" />
+      <itunes:duration>00:09:41</itunes:duration>
+    </item>
+    <item>
+      <title>Mon 9 Nov - Morning</title>
+      <description>In this episode: headlines, ai.</description>
+      <guid isPermaLink="false">smarten-up-2026-11-09-morning</guid>
+      <pubDate>Mon, 09 Nov 2026 06:30:00 +0400</pubDate>
+      <enclosure url="https://kaschewe-cloud.github.io/x7k2q9-feed/61f1b785dafc73d2a097676fa286dc3efd52be4fbb084bdf/audio/2026-11-09-morning.mp3" length="4874971" type="audio/mpeg" />
+      <itunes:duration>00:10:09</itunes:duration>
+    </item>
+  </channel>
+</rss>
