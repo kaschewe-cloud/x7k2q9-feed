@@ -1,0 +1,744 @@
+[
+ {
+  "guid": "smarten-up-2026-11-09-evening",
+  "title": "Mon 9 Nov - Evening",
+  "description": "In this episode: markets, career.",
+  "file": "audio/2026-11-09-evening.mp3",
+  "bytes": 4646348,
+  "duration_s": 580.70542,
+  "pub_iso": "2026-11-09T17:30:00+04:00",
+  "sort_key": "2026-11-09-1",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "markets",
+    "speaker": "Markets reporter",
+    "start_s": 23.0
+   },
+   {
+    "key": "handoff-career",
+    "speaker": "host",
+    "start_s": 188.5
+   },
+   {
+    "key": "career",
+    "speaker": "Career coach",
+    "start_s": 196.2
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 566.1
+   }
+  ],
+  "words": 1650
+ },
+ {
+  "guid": "smarten-up-2026-11-10-morning",
+  "title": "Tue 10 Nov - Morning",
+  "description": "In this episode: headlines, funfact. The AI concepts and the commercial side of AI segment is missing today because the reporter could not finish it. It will be back at the next episode.",
+  "file": "audio/2026-11-10-morning.mp3",
+  "bytes": 1514999,
+  "duration_s": 189.29712,
+  "pub_iso": "2026-11-10T06:30:00+04:00",
+  "sort_key": "2026-11-10-0",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "headlines",
+    "speaker": "Headlines reporter",
+    "start_s": 32.3
+   },
+   {
+    "key": "handoff-funfact",
+    "speaker": "host",
+    "start_s": 151.6
+   },
+   {
+    "key": "funfact",
+    "speaker": "Fun fact",
+    "start_s": 157.5
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 195.1
+   }
+  ],
+  "words": 589
+ },
+ {
+  "guid": "smarten-up-2026-11-10-evening",
+  "title": "Tue 10 Nov - Evening",
+  "description": "In this episode: markets, history, career.",
+  "file": "audio/2026-11-10-evening.mp3",
+  "bytes": 6604906,
+  "duration_s": 825.532086,
+  "pub_iso": "2026-11-10T17:30:00+04:00",
+  "sort_key": "2026-11-10-1",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "markets",
+    "speaker": "Markets reporter",
+    "start_s": 19.6
+   },
+   {
+    "key": "handoff-history",
+    "speaker": "host",
+    "start_s": 136.8
+   },
+   {
+    "key": "history",
+    "speaker": "History reporter",
+    "start_s": 142.5
+   },
+   {
+    "key": "handoff-career",
+    "speaker": "host",
+    "start_s": 480.2
+   },
+   {
+    "key": "career",
+    "speaker": "Career coach",
+    "start_s": 488.1
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 810.0
+   }
+  ],
+  "words": 2366
+ },
+ {
+  "guid": "smarten-up-2026-11-11-morning",
+  "title": "Wed 11 Nov - Morning",
+  "description": "In this episode: news_gulf, news_west, news_asia, ai_tech.",
+  "file": "audio/2026-11-11-morning.mp3",
+  "bytes": 6446499,
+  "duration_s": 805.740045,
+  "pub_iso": "2026-11-11T06:30:00+04:00",
+  "sort_key": "2026-11-11-0",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "news_gulf",
+    "speaker": "Gulf correspondent",
+    "start_s": 21.5
+   },
+   {
+    "key": "handoff-news_west",
+    "speaker": "host",
+    "start_s": 148.0
+   },
+   {
+    "key": "news_west",
+    "speaker": "US and Europe correspondent",
+    "start_s": 155.0
+   },
+   {
+    "key": "handoff-news_asia",
+    "speaker": "host",
+    "start_s": 253.9
+   },
+   {
+    "key": "news_asia",
+    "speaker": "Asia and emerging markets correspondent",
+    "start_s": 260.2
+   },
+   {
+    "key": "handoff-ai_tech",
+    "speaker": "host",
+    "start_s": 382.9
+   },
+   {
+    "key": "ai_tech",
+    "speaker": "AI under the hood",
+    "start_s": 393.3
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 793.0
+   }
+  ],
+  "words": 2203
+ },
+ {
+  "guid": "smarten-up-2026-11-12-morning",
+  "title": "Thu 12 Nov - Morning",
+  "description": "In this episode: news_gulf, news_west, news_asia, funfact, ai_biz.",
+  "file": "audio/2026-11-12-morning.mp3",
+  "bytes": 6004925,
+  "duration_s": 750.548073,
+  "pub_iso": "2026-11-12T06:30:00+04:00",
+  "sort_key": "2026-11-12-0",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "news_gulf",
+    "speaker": "Gulf correspondent",
+    "start_s": 29.5
+   },
+   {
+    "key": "handoff-news_west",
+    "speaker": "host",
+    "start_s": 147.2
+   },
+   {
+    "key": "news_west",
+    "speaker": "US and Europe correspondent",
+    "start_s": 155.1
+   },
+   {
+    "key": "handoff-news_asia",
+    "speaker": "host",
+    "start_s": 256.5
+   },
+   {
+    "key": "news_asia",
+    "speaker": "Asia and emerging markets correspondent",
+    "start_s": 264.5
+   },
+   {
+    "key": "handoff-funfact",
+    "speaker": "host",
+    "start_s": 403.2
+   },
+   {
+    "key": "funfact",
+    "speaker": "Fun fact",
+    "start_s": 410.0
+   },
+   {
+    "key": "handoff-ai_biz",
+    "speaker": "host",
+    "start_s": 464.8
+   },
+   {
+    "key": "ai_biz",
+    "speaker": "AI in business",
+    "start_s": 472.2
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 738.8
+   }
+  ],
+  "words": 1952
+ },
+ {
+  "guid": "smarten-up-2026-11-12-evening",
+  "title": "Thu 12 Nov - Evening",
+  "description": "In this episode: markets, history, career.",
+  "file": "audio/2026-11-12-evening.mp3",
+  "bytes": 7097888,
+  "duration_s": 887.164082,
+  "pub_iso": "2026-11-12T17:30:00+04:00",
+  "sort_key": "2026-11-12-1",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "markets",
+    "speaker": "Markets reporter",
+    "start_s": 28.3
+   },
+   {
+    "key": "handoff-history",
+    "speaker": "host",
+    "start_s": 259.5
+   },
+   {
+    "key": "history",
+    "speaker": "History reporter",
+    "start_s": 267.6
+   },
+   {
+    "key": "handoff-career",
+    "speaker": "host",
+    "start_s": 549.8
+   },
+   {
+    "key": "career",
+    "speaker": "Career coach",
+    "start_s": 556.3
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 874.3
+   }
+  ],
+  "words": 2594
+ },
+ {
+  "guid": "smarten-up-2026-11-16-morning",
+  "title": "Mon 16 Nov - Morning",
+  "description": "In this episode: news_gulf, news_west, news_asia, ai_tech.",
+  "file": "audio/2026-11-16-morning.mp3",
+  "bytes": 6747012,
+  "duration_s": 843.300068,
+  "pub_iso": "2026-11-16T06:30:00+04:00",
+  "sort_key": "2026-11-16-0",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "news_gulf",
+    "speaker": "Gulf correspondent",
+    "start_s": 35.1
+   },
+   {
+    "key": "handoff-news_west",
+    "speaker": "host",
+    "start_s": 173.4
+   },
+   {
+    "key": "news_west",
+    "speaker": "US and Europe correspondent",
+    "start_s": 177.6
+   },
+   {
+    "key": "handoff-news_asia",
+    "speaker": "host",
+    "start_s": 287.5
+   },
+   {
+    "key": "news_asia",
+    "speaker": "Asia and emerging markets correspondent",
+    "start_s": 291.8
+   },
+   {
+    "key": "handoff-ai_tech",
+    "speaker": "host",
+    "start_s": 426.0
+   },
+   {
+    "key": "ai_tech",
+    "speaker": "AI under the hood",
+    "start_s": 433.5
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 830.8
+   }
+  ],
+  "words": 2288
+ },
+ {
+  "guid": "smarten-up-2026-11-16-evening",
+  "title": "Mon 16 Nov - Evening",
+  "description": "In this episode: markets, history, career.",
+  "file": "audio/2026-11-16-evening.mp3",
+  "bytes": 6758923,
+  "duration_s": 844.780091,
+  "pub_iso": "2026-11-16T17:30:00+04:00",
+  "sort_key": "2026-11-16-1",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "markets",
+    "speaker": "Markets reporter",
+    "start_s": 23.5
+   },
+   {
+    "key": "handoff-history",
+    "speaker": "host",
+    "start_s": 191.7
+   },
+   {
+    "key": "history",
+    "speaker": "History reporter",
+    "start_s": 198.4
+   },
+   {
+    "key": "handoff-career",
+    "speaker": "host",
+    "start_s": 446.7
+   },
+   {
+    "key": "career",
+    "speaker": "Career coach",
+    "start_s": 453.6
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 830.7
+   }
+  ],
+  "words": 2513
+ },
+ {
+  "guid": "smarten-up-2026-11-17-morning",
+  "title": "Tue 17 Nov - Morning",
+  "description": "In this episode: news_gulf, news_west, news_asia, funfact, ai_biz.",
+  "file": "audio/2026-11-17-morning.mp3",
+  "bytes": 5870342,
+  "duration_s": 733.724104,
+  "pub_iso": "2026-11-17T06:30:00+04:00",
+  "sort_key": "2026-11-17-0",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "news_gulf",
+    "speaker": "Gulf correspondent",
+    "start_s": 35.8
+   },
+   {
+    "key": "handoff-news_west",
+    "speaker": "host",
+    "start_s": 151.6
+   },
+   {
+    "key": "news_west",
+    "speaker": "US and Europe correspondent",
+    "start_s": 157.2
+   },
+   {
+    "key": "handoff-news_asia",
+    "speaker": "host",
+    "start_s": 270.0
+   },
+   {
+    "key": "news_asia",
+    "speaker": "Asia and emerging markets correspondent",
+    "start_s": 276.3
+   },
+   {
+    "key": "handoff-funfact",
+    "speaker": "host",
+    "start_s": 404.6
+   },
+   {
+    "key": "funfact",
+    "speaker": "Fun fact",
+    "start_s": 409.2
+   },
+   {
+    "key": "handoff-ai_biz",
+    "speaker": "host",
+    "start_s": 465.6
+   },
+   {
+    "key": "ai_biz",
+    "speaker": "AI in business",
+    "start_s": 474.5
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 719.2
+   }
+  ],
+  "words": 1982
+ },
+ {
+  "guid": "smarten-up-2026-11-17-evening",
+  "title": "Tue 17 Nov - Evening",
+  "description": "In this episode: markets, history, career.",
+  "file": "audio/2026-11-17-evening.mp3",
+  "bytes": 6386731,
+  "duration_s": 798.268095,
+  "pub_iso": "2026-11-17T17:30:00+04:00",
+  "sort_key": "2026-11-17-1",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "markets",
+    "speaker": "Markets reporter",
+    "start_s": 24.6
+   },
+   {
+    "key": "handoff-history",
+    "speaker": "host",
+    "start_s": 191.0
+   },
+   {
+    "key": "history",
+    "speaker": "History reporter",
+    "start_s": 197.9
+   },
+   {
+    "key": "handoff-career",
+    "speaker": "host",
+    "start_s": 450.4
+   },
+   {
+    "key": "career",
+    "speaker": "Career coach",
+    "start_s": 457.1
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 784.7
+   }
+  ],
+  "words": 2235
+ },
+ {
+  "guid": "smarten-up-2026-11-18-morning",
+  "title": "Wed 18 Nov - Morning",
+  "description": "In this episode: news_gulf, news_west, news_asia, ai_tech.",
+  "file": "audio/2026-11-18-morning.mp3",
+  "bytes": 6662793,
+  "duration_s": 832.764104,
+  "pub_iso": "2026-11-18T06:30:00+04:00",
+  "sort_key": "2026-11-18-0",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "news_gulf",
+    "speaker": "Gulf correspondent",
+    "start_s": 31.6
+   },
+   {
+    "key": "handoff-news_west",
+    "speaker": "host",
+    "start_s": 161.3
+   },
+   {
+    "key": "news_west",
+    "speaker": "US and Europe correspondent",
+    "start_s": 168.3
+   },
+   {
+    "key": "handoff-news_asia",
+    "speaker": "host",
+    "start_s": 274.5
+   },
+   {
+    "key": "news_asia",
+    "speaker": "Asia and emerging markets correspondent",
+    "start_s": 282.1
+   },
+   {
+    "key": "handoff-ai_tech",
+    "speaker": "host",
+    "start_s": 412.6
+   },
+   {
+    "key": "ai_tech",
+    "speaker": "AI under the hood",
+    "start_s": 423.6
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 819.8
+   }
+  ],
+  "words": 2255
+ },
+ {
+  "guid": "smarten-up-2026-11-18-evening",
+  "title": "Wed 18 Nov - Evening",
+  "description": "In this episode: markets, history, career.",
+  "file": "audio/2026-11-18-evening.mp3",
+  "bytes": 5587175,
+  "duration_s": 698.308095,
+  "pub_iso": "2026-11-18T17:30:00+04:00",
+  "sort_key": "2026-11-18-1",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "markets",
+    "speaker": "Markets reporter",
+    "start_s": 19.3
+   },
+   {
+    "key": "handoff-history",
+    "speaker": "host",
+    "start_s": 158.4
+   },
+   {
+    "key": "history",
+    "speaker": "History reporter",
+    "start_s": 167.3
+   },
+   {
+    "key": "handoff-career",
+    "speaker": "host",
+    "start_s": 414.9
+   },
+   {
+    "key": "career",
+    "speaker": "Career coach",
+    "start_s": 423.6
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 685.2
+   }
+  ],
+  "words": 2013
+ },
+ {
+  "guid": "smarten-up-2026-11-19-morning",
+  "title": "Thu 19 Nov - Morning",
+  "description": "In this episode: news_gulf, news_west, news_asia, funfact, ai_biz.",
+  "file": "audio/2026-11-19-morning.mp3",
+  "bytes": 5361686,
+  "duration_s": 670.124082,
+  "pub_iso": "2026-11-19T06:30:00+04:00",
+  "sort_key": "2026-11-19-0",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "news_gulf",
+    "speaker": "Gulf correspondent",
+    "start_s": 27.7
+   },
+   {
+    "key": "handoff-news_west",
+    "speaker": "host",
+    "start_s": 164.9
+   },
+   {
+    "key": "news_west",
+    "speaker": "US and Europe correspondent",
+    "start_s": 168.9
+   },
+   {
+    "key": "handoff-news_asia",
+    "speaker": "host",
+    "start_s": 275.8
+   },
+   {
+    "key": "news_asia",
+    "speaker": "Asia and emerging markets correspondent",
+    "start_s": 280.2
+   },
+   {
+    "key": "handoff-funfact",
+    "speaker": "host",
+    "start_s": 406.8
+   },
+   {
+    "key": "funfact",
+    "speaker": "Fun fact",
+    "start_s": 411.9
+   },
+   {
+    "key": "handoff-ai_biz",
+    "speaker": "host",
+    "start_s": 464.8
+   },
+   {
+    "key": "ai_biz",
+    "speaker": "AI in business",
+    "start_s": 469.3
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 657.6
+   }
+  ],
+  "words": 1716
+ },
+ {
+  "guid": "smarten-up-2026-11-19-evening",
+  "title": "Thu 19 Nov - Evening",
+  "description": "In this episode: markets, history, career.",
+  "file": "audio/2026-11-19-evening.mp3",
+  "bytes": 7815315,
+  "duration_s": 976.82805,
+  "pub_iso": "2026-11-19T17:30:00+04:00",
+  "sort_key": "2026-11-19-1",
+  "chapters": [
+   {
+    "key": "intro",
+    "speaker": "host",
+    "start_s": 0.0
+   },
+   {
+    "key": "markets",
+    "speaker": "Markets reporter",
+    "start_s": 31.2
+   },
+   {
+    "key": "handoff-history",
+    "speaker": "host",
+    "start_s": 307.4
+   },
+   {
+    "key": "history",
+    "speaker": "History reporter",
+    "start_s": 315.8
+   },
+   {
+    "key": "handoff-career",
+    "speaker": "host",
+    "start_s": 628.2
+   },
+   {
+    "key": "career",
+    "speaker": "Career coach",
+    "start_s": 637.0
+   },
+   {
+    "key": "signoff",
+    "speaker": "host",
+    "start_s": 965.3
+   }
+  ],
+  "words": 2834
+ }
+]
